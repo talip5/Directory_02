@@ -1,0 +1,10 @@
+C:\Users\Furka\source\repos\Directory_02\bin\Debug\Directory_02.exe.config
+C:\Users\Furka\source\repos\Directory_02\bin\Debug\Directory_02.exe
+C:\Users\Furka\source\repos\Directory_02\bin\Debug\Directory_02.pdb
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.csproj.AssemblyReference.cache
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.Form1.resources
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.Properties.Resources.resources
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.csproj.GenerateResource.cache
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.exe
+C:\Users\Furka\source\repos\Directory_02\obj\Debug\Directory_02.pdb
